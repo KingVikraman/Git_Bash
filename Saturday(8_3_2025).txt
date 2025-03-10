@@ -1,0 +1,49 @@
+LEARNING UPDATES  OF THE DAY.
+
+Day:Saturday
+Date: 8/3/2025
+
+
+(1) [Git Tutorial For Dummies.]
+*******************************
+
+i) What is git?
+----------------
+	->Git is a software that is installed in your device, Like Linux and Mac its already
+	  preinstalled but if it is windows you got to manually install it. 
+
+ii)Is git important to know?
+-----------------------------
+	-> Yes, git is really important cause otherwise you are not going to be successful at
+	    at programming or even coding, there is terminal and there is git both are equally-
+	    important for a programmer.
+
+iii) Why is git very important?
+--------------------------------
+	-> Git is a memory card for code. Lets say if you got a code no matter what it is, 
+	   Jave, C++, HTML, phython, whatever it is you would want to save its progress as
+	   you update your code along the way to have like a history. In that way if you
+	   die or whatnot, you wont lose you shit(progress), you would have it stored somewhere
+	   for another person to pick up where you have left.
+
+iv)Git Commands!
+-----------------
+	-> Git Status [Check the status of your work tree]
+	-> Git init [initialise your git, its like inserting a memory card to save your work]
+	-> Git add . [To add the files that i want to save]
+
+	-> Git commit -m " (message) "< the message that you wanna commit.
+		    ^
+		the command
+	-> Git log [see the history, or seeing you saved changes].
+	-> Git checkout [this one i am really unsure on how to explain but its like 
+			  for some sort of reason it can bring you back to your 
+			  previous progress].
+	-> Git branch [this command helps you make changes in a way where you dont effect
+			the main reposotory].
+	-> Git remote add origin https:// gitHub.com/
+	-> Git push [TO push you saved work to where ever your repository is].
+
+
+
+	
